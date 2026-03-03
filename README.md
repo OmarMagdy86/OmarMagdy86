@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Omar Magdy 👋
 
-<!--
-**OmarMagdy86/OmarMagdy86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Robotics & Software Engineer
+I specialize in building autonomous systems and collaborative robotic manipulation frameworks. 
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Robotics:** ROS 2 (Jazzy/Humble), MoveIt 2, Gazebo, RViz
+- **Languages:** C++, Python, JavaScript
+- **Control:** Control Systems Theory, Autonomous Navigation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Key Experience
+- **European Rover Challenge (ERC):** [Briefly mention your role/contribution]
+- **ASU ROAR Team:** Lead/Member focusing on Autonomous Systems & Teleop Interfaces.
+
+### 📂 Current Focus
+- **Autonomous Dual-Arm Collaboration:** Developing a graduation project centered on robotic manipulation and system autonomy.
