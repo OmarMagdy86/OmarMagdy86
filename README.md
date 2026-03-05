@@ -5,7 +5,7 @@ I specialize in building autonomous systems and collaborative robotic manipulati
 
 ### 🛠 Tech Stack
 - **Robotics:** ROS 2 (Jazzy/Humble), MoveIt 2, Gazebo, RViz
-- **Languages:** C++, Python, JavaScript
+- **Languages:** C++, Python, Java
 - **Control:** Control Systems Theory, Autonomous Navigation
 
 ### 🏆 Key Experience
